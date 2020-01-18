@@ -4,7 +4,7 @@ This repo is for the Kaggle competition https://www.kaggle.com/c/santa-workshop-
 A number of ideas were tried for this competition. With the best results from using MIP (Mixed-Integer Programming) Solvers. Two solvers that I attemped to use were IBM's CPLEX and Google's OR-Tools.
 
 ## Results
-My final results were AAA place out of BBB. This resulted in a MMM medal as it was in the top NNNN. The final solution value was XXXX.
+My final results were 172 place out of 1620. This resulted in a top 10% finish. The final solution value was 69584. However, running the project I was able to find the optimal solution with the project
 
 This result was achieved using IBM's CPLEX, running on a Google Compute server.
 
